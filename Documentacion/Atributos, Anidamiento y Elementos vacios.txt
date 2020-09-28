@@ -1,0 +1,9 @@
+Atrubutor
+<h1 class="saludo">
+class=atributo
+valor=saludo
+<h1 class="saludo"> = etiqueta de apertura
+
+Anidamiento
+
+Son elementos que se encuentran dentrod e otros elementos, de esta forma en HTML se puede estructurar y organizar el contenido de una pagina. 

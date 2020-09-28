@@ -1,0 +1,13 @@
+Transformacion o renderizado por parte de la web
+
+1 Byte, el navegador coge el codigo y lo transforma en numeros que luego son transformado en caracteres dependiendo de la codificacion que se le ha dado en el codigo. 
+2 Characters codificacion de bytes a caracteres.
+3 Tokens transformacion del as etiquetas en elementod html
+4 Nodes es la transformacion a objetos 
+5 DOM es la organizacion de los elementos en una estructura, es un arbol que estructura los elementos en html.
+
+Resumen de pasos que hace el navegador 
+1. Procesa el html y construye el DOM
+2. Procesa el XCSS y contruye el CSSOM
+3. DOM + CSS = RENDER TREE
+4. Ejecuta el diseno en el tree render
